@@ -599,10 +599,9 @@ font-size: 55px;
 
 @media (max-width:411px){
     .projects{
-        margin-top: 250px;
-        left: 5%;
-        font-size: 40px;
-        text-align: left;
+        padding-top:100px;
+    font-size: 44px;
+
     
     }
     .img1{
