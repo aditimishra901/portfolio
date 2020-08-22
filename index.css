@@ -611,10 +611,44 @@ font-size: 55px;
     }
 }
 @media(max-width:375px){
+   .text-intro{
+       left: 5%;
+   }
+   .text-main{
+       margin-top: 200px;
+   }
+   
     .bold2{
         margin-top: 690px;
     }
     .boldnext2{
         margin-top: 730px;
+    }
+    .projects{
+        margin-top: 300px;
+        font-size: 35px;
+    }
+    .img1{
+        margin: 45px;
+    }
+}
+
+
+@media(max-width : 414px){
+    .text-intro{
+        margin-top: 225px;
+        left: 5%;
+    }
+    .projects{
+        margin-top: 200px;
+    font-size: 45px;
+    }
+    .img1{
+        margin: 45px;
+    }
+}
+@media(max-width:320px){
+    .text-main{
+        margin-top: 170px;
     }
 }
