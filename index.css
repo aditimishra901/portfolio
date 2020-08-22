@@ -535,26 +535,26 @@ font-size: 55px;
         text-align: left;
     }
     .bold1{
-        margin-top: 310px;
+        margin-top: 350px;
     font-size: 35px;
     color: black;
     left: 5%;
     }
     .boldnext1{
         color: black;
-        margin-top: 350px;
+        margin-top: 400px;
       font-size: 20px;
       left: 5%;
     }
     .bold2{
         left: 5%;
         margin-top: 550px;
-        font-size: 25px;
+        font-size: 35px;
         color: black;
     }
     .boldnext2{
         color: black;
-        margin-top: 590px;
+        margin-top: 600px;
         left: 5%;
         font-size: 20px;
     }
