@@ -46,7 +46,7 @@ html {
 
 }
 .intro{
-background-color: white;
+background-image:linear-gradient(#ffe0f7,#fe91ca,#d3dbff,#251f44);;
 background:cover;
 height: 100%;
 background-position: center;
