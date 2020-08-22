@@ -37,7 +37,7 @@ html {
     height: 350px;
     width: 350px;
     margin-right: 30px;
-    border: white;
+    border: black;
     border-style: ridge;
     border-radius:50%;
        
@@ -168,7 +168,7 @@ background-size: cover;
 }
 
 .projects{
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Poppins';
     padding-top: 50px;
     font-size: 50px;
     color: white;
